@@ -1,0 +1,32 @@
+	#container{
+		width:480px;
+		height:650px;
+		margin:0 auto;
+		text-align:center;
+		background:#323232;
+		vertical-align:middle;
+	}
+	
+	img{
+		width:300px;
+		height:180px;
+	}
+	#name,#id,#topic,#type{
+		margin-left:60px;
+	}
+	#hxk,#d,#game,#gradu{
+		text-decoration:underline;
+		margin-left:138px;	
+	}
+	#hxk{
+		margin-top:-48px;
+	}
+	#d{
+		margin-top:-50px;
+	}
+	#game{
+		margin-top:-52px;
+	}
+	#gradu{
+		margin-top:-50px;
+	}
